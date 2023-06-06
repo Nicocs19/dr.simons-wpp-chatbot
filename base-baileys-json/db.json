@@ -1,0 +1,118 @@
+[
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7OERdg8hQWMNpjByDdgBDee3lGM5e",
+    "parentMessageId": "c02d7c9f-7eaa-41af-8635-ec574a4367a2",
+    "text": "Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Esperamos haber sido de ayuda! 🤗",
+    "detail": {
+      "id": "chatcmpl-7OERdg8hQWMNpjByDdgBDee3lGM5e",
+      "object": "chat.completion",
+      "created": 1686009753,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 927,
+        "completion_tokens": 78,
+        "total_tokens": 1005
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Esperamos haber sido de ayuda! 🤗"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Esperamos haber sido de ayuda! 🤗",
+    "from": "59167694685"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7OEVYLzestBhCaLitlUnHBf3yidVj",
+    "parentMessageId": "87e47daa-070e-4cb8-a331-cd148e18df3c",
+    "text": "¡Hola! Soy ChatGPT, un asistente AI diseñado para ayudar a responder preguntas sobre programación de citas, pagos, procedimientos quirúrgicos y cualquier otra duda relacionada con la consulta médica en línea con el Dr. Cristian Simons. ¿En qué puedo ayudarte hoy? 😊",
+    "detail": {
+      "id": "chatcmpl-7OEVYLzestBhCaLitlUnHBf3yidVj",
+      "object": "chat.completion",
+      "created": 1686009996,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 1078,
+        "completion_tokens": 70,
+        "total_tokens": 1148
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "¡Hola! Soy ChatGPT, un asistente AI diseñado para ayudar a responder preguntas sobre programación de citas, pagos, procedimientos quirúrgicos y cualquier otra duda relacionada con la consulta médica en línea con el Dr. Cristian Simons. ¿En qué puedo ayudarte hoy? 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "¡Hola! Soy ChatGPT, un asistente AI diseñado para ayudar a responder preguntas sobre programación de citas, pagos, procedimientos quirúrgicos y cualquier otra duda relacionada con la consulta médica en línea con el Dr. Cristian Simons. ¿En qué puedo ayudarte hoy? 😊",
+    "from": "59168742821"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7OEayyXcCy3qd6lFey89sYXiCT0Hy",
+    "parentMessageId": "af766705-bfc7-4baf-ae1e-db829880e5c3",
+    "text": "¡Hola! Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Espero que te sea útil! 🤗",
+    "detail": {
+      "id": "chatcmpl-7OEayyXcCy3qd6lFey89sYXiCT0Hy",
+      "object": "chat.completion",
+      "created": 1686010332,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 1223,
+        "completion_tokens": 82,
+        "total_tokens": 1305
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "¡Hola! Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Espero que te sea útil! 🤗"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "¡Hola! Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Espero que te sea útil! 🤗",
+    "from": "59167694685"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7OEbb9ACgTtPVboy7f65gQ8uc2NwN",
+    "parentMessageId": "f3c37c03-3bfd-41a2-adf8-15ee59e8e5eb",
+    "text": "¡Hola! Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Espero haberte sido de ayuda! 🤗",
+    "detail": {
+      "id": "chatcmpl-7OEbb9ACgTtPVboy7f65gQ8uc2NwN",
+      "object": "chat.completion",
+      "created": 1686010371,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 1381,
+        "completion_tokens": 82,
+        "total_tokens": 1463
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "¡Hola! Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Espero haberte sido de ayuda! 🤗"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "¡Hola! Para realizar el pago a través de código QR, puedes descargar la imagen del QR directamente en tu dispositivo desde este enlace: [https://payqr.drsimonscristian.com/]. Luego, escanea el código con tu dispositivo móvil usando la aplicación de tu banco o una aplicación de pago. ¡Espero haberte sido de ayuda! 🤗",
+    "from": "59167694685"
+  }
+]
